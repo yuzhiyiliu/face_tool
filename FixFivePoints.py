@@ -8,8 +8,8 @@ def update(img,x,y):
 	cv2.circle(img,(x,y),3,(0,0,255),-1)
 	cv2.imshow("img", img)
 
-def onMouse(event, x, y, flags, param):      #标准鼠标交互函数
-	if event==cv2.EVENT_LBUTTONDOWN :           #当鼠标移动时
+def onMouse(event, x, y, flags, param):
+	if event==cv2.EVENT_LBUTTONDOWN :
 		fivePoints.append(x)
 		fivePoints.append(y)
 		update(img,x,y)
