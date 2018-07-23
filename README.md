@@ -2,8 +2,8 @@
 Fix the five points of the eyes, nose, and mouth in the face.
 
 need:
-<br>*python3.x</br>
-<br>*opencv3.1.0</br>
+*python3.x<br>
+*opencv3.1.0<br>
 
 Download and run
 ><br>git clone https://github.com/yuzhiyiliu/face_tool.git</br>
