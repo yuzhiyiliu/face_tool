@@ -10,4 +10,8 @@ Download and run
 >cd face_tool<br>
 >./FixFivePoints.py<br>
 
+d:Next<br>
+a:Previous<br>
+Esc:exit<br>
+
 left eye -> right eye -> nose -> left corner of the mouth -> right corner of the mouth
