@@ -15,7 +15,7 @@ a:Previous<br>
 d:Next<br>
 j:Previous100<br>
 l:Next100<br>
-0~9(Enter):skip e.g.1234(Enter)<bar> 
+0~9(Enter):skip e.g.1234(Enter)<br> 
 Esc:exit<br>
 
 left eye -> right eye -> nose -> left corner of the mouth -> right corner of the mouth
