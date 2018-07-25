@@ -8,7 +8,7 @@ opencv3.1.0<br>
 Download and run
 >git clone https://github.com/yuzhiyiliu/face_tool.git<br>
 >cd face_tool<br>
->./FixFivePoints.py<br>
+>python FixFivePoints.py<br>
 
 usage:<br>
 >a:Previous<br>
