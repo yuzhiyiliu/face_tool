@@ -66,7 +66,7 @@ for root, dirs, files in os.walk(op.join(os.getcwd(),'lfw_point')):
 		if key > 47 and key < 58:
 			skip *= 10
 			skip += key - 48
-		if skip < len(txts):
+		if skip <= len(txts):
 			if key == 13 and skip > 0:
 				i = skip - 1
 				skip = 0
